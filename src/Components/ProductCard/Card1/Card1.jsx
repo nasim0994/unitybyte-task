@@ -9,7 +9,7 @@ export default function Card1() {
       <div className="grid lg:grid-cols-2 gap-8 items-center">
         <div className="relative h-full flex items-center">
           <img
-            src="/public/images/products/boyam1.png"
+            src="/images/products/boyam1.png"
             alt=""
             className="w-[75%] h-[85%] mx-auto"
           />
