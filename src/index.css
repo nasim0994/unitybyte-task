@@ -79,3 +79,16 @@ body {
   opacity: 1;
   visibility: visible;
 }
+
+.swiper-pagination.swiper-pagination-clickable.swiper-pagination-bullets.swiper-pagination-horizontal {
+  top: 10px;
+  width: 100%;
+  height: max-content;
+  text-align: end;
+}
+
+span.swiper-pagination-bullet.swiper-pagination-bullet-active {
+  background: #ec4d26;
+  width: 37px;
+  border-radius: 5px;
+}

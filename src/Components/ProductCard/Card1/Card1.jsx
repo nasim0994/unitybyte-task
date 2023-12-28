@@ -48,6 +48,7 @@ export default function Card1() {
           </h2>
           <div className="flex gap-3 items-end">
             <p className="text-xl font-semibold text-primary/90">$600.00</p>
+            <del className="text-neutral-content/80 font-medium">$50.00</del>
           </div>
           <p className="text-neutral-content text-sm mt-2">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque

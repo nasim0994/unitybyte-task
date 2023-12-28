@@ -21,7 +21,7 @@ export default function Slider1() {
               },
             }}
             modules={[Navigation]}
-            loop={true}
+            // loop={true}
           >
             <SwiperSlide>
               <div>
